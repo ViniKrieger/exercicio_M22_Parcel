@@ -1,0 +1,60 @@
+.event {
+    padding: 80px 0;
+
+    &--praia {
+        background-image:linear-gradient(rgb(9, 65, 252),lightblue);
+    }
+
+    &--local {
+        background-image: linear-gradient(lightblue, rgb(247, 216, 148));
+    }
+    
+    &--after {
+        background-image: linear-gradient(rgb(247, 216, 148), orange);
+    }
+
+    &__image {
+        height:280px;
+        width: 360px;
+    }
+
+    &--image-left {
+        .container {
+            flex-direction: row-reverse;
+        }
+    }
+
+    .container {
+        display: flex;
+        gap: 40px;
+    }
+
+    &__details {
+
+        &__title {
+            font-size: 22px;
+            font-weight: bold;    
+            margin-bottom: 16px;
+        }
+
+        &__description {
+            font-size: 20px;
+            line-height: 22px;
+        }
+    }
+
+    @media (max-width:640px) {
+        .container {
+            display: block;
+        }
+
+        &__image {
+            width: 100%;
+        }
+
+        &__details {
+            margin-bottom: 16px;
+            margin-right: 0;
+        }
+    }
+}

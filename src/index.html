@@ -8,17 +8,19 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Handjet:wght@700&family=Lobster&family=Pacifico&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/main.scss">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
 </head>
 <body>
     <header class="cabecalho">
         <div class="container">
-            <h1 class="cabecalho__text">Venha participar da minha festa de aniversário <br> Contagem regresiva para o aniversário 30d 13h 32min 45s</h1>
+            <h1 class="cabecalho__text">Venha participar da minha festa de aniversário <br> Contagem regresiva para o aniversário <span id="contador"></span></h1>
         </div>
             <div class="informacoes">
                 <ul class="informacoes__infos">
                     <li class="informacoes__infos__item">
                         <b>Local</b>
-                        Blumenau - SC
+                        Clube Jaguatirica
                     </li>
                     <li class="informacoes__infos__item">
                         <b>Data</b>
@@ -26,24 +28,43 @@
                     </li>
                     <li class="informacoes__infos__item">
                         <b>Horário</b>
-                        19:00
+                        14:00
                     </li>
                 </ul>
-                <a href="" class="button">
+                <a href="https://voutb.com.br/confirmar/95008/aniversario-krieger" class="button">
                     Garanta a sua vaga
                 </a>
             </div>
     </header>
-    <section class="event">
-        <div class="container">
+    <section class="event event--praia">
+        <div class="container" data-aos="flip-down" data-aos-duration="2000">
             <div class="event__details">
-                <h2 class="event__details__title"></h2>
-                <p class="event__details__description"></p>
+                <h2 class="event__details__title">Tema da festa </h2>
+                <p class="event__details__description">O tema deste ano vai remeter ao verão. Vamos recriar uma praia, vai ter psicina, churrasco, beach tênis e muitas outras coisa que remetem ao nosso verão. Agora apenas nos resta torcer para que no dia seja um verdadeiro dia de verão, façam suas macumbas aí. </p>
             </div>
-            <img class="event__image" src="images/flork-aniversario-pnh.png" alt="flork aniversário">
+            <img class="event__image" src="images/praia-tropical.jpg" alt="praia">
+        </div>
+    </section>
+    <section class="event event--local event--image-left">
+        <div class="container" data-aos="flip-up" data-aos-duration="2000">
+            <div class="event__details">
+                <h2 class="event__details__title">Local do evento</h2>
+                <p class="event__details__description">Vou reservar um espaço no <b>Clube Jaguatirica</b>, para que possamos utilizar de todos os ambientes ali concedidos, piscina, quadra de beach tênis, campo de futebol e churrasqueira. Ao chegar na portaria dar seu nome ao porteiro que ele vai lhe guiar até o salão da festa. <br><br><b>Endereço: Rua das Flores , 1578 </b> </p>
+            </div>
+            <img class="event__image" src="images/clube.jfif" alt="clube">
+        </div>
+    </section>
+    <section class="event event--after">
+        <div class="container" data-aos="flip-down" data-aos-duration="2000">
+            <div class="event__details">
+                <h2 class="event__details__title">Vai ter after??</h2>
+                <p class="event__details__description">Já conhecendo meus amigos e amigas me preparei previamente para esta pergunta e a resposta é SIM vamos ter um after. A festa no clube deve ir até ás 21h, após este horário vocês podem decidir tomar um banho e se trocar no clube mesmo ou ir para casa se arumarem. Isso para que nos encontrarmos as 22h no <b>Bar do Chicão, Rua Groselha, 142 </b>, para continuar nossa festa.</p>
+            </div>
+            <img class="event__image" src="images/after.jfif" alt="after">
         </div>
     </section>
 
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script src="scripts/main.js"></script>
 </body>
 </html>

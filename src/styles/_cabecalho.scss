@@ -1,21 +1,11 @@
 .cabecalho {
-    padding-top: 64px;
+    padding-top: 450px;
     padding-bottom: 100px;
     background-image: url(../images/aniversario.jpg);
     background-repeat:no-repeat;
     background-size:cover;
-    position: relative;
 
-    &::before {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background-color: #000;
-        content: '';
-        opacity: 0.3;
-    }
+
 
     &__text {
         margin-top: 64px;
@@ -24,6 +14,8 @@
         font-weight: 800;
         line-height: 56px;
         text-align: center;
+        background-color: #ffffff8c;
+        border-radius: 30px;
     }
 
         @media (max-width: 640px) {
@@ -36,4 +28,3 @@
         }
     }
 }
-

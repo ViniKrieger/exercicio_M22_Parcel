@@ -39,7 +39,7 @@
 136C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gdbusobjectmanager.h133117882010000000 0
 71C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\src\scripts\main.js133396901962027487 0
 104C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\transformer-babel\src\config.js133396175318925580 0
-56C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist133396921368916959 1
+56C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist133396949758241497 1
 93C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\css-tree\lib\utils\string.js133396175325620225 0
 126C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\node-resolver-core\parcel-resolver.linux-x64-gnu.node133396175323599757 0
 121C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\csso\node_modules\css-tree\lib\syntax\node\Identifier.js133396175324830033 0
@@ -75,7 +75,7 @@
 104C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\lmdb\node_modules\msgpackr\package.json133396175320541207 0
 100C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\svgo\plugins\removeScriptElement.js133396175322059419 0
 100C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\msgpackr\dist\index-no-eval.cjs.map133396175320923405 0
-66C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\src\index.html133396920539949454 0
+66C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\src\index.html133396949758011449 0
 123C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gtask.h133117882010000000 0
 81C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\stable\stable.js133396175317545271 0
 89C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\term-size\vendor\windows133396175318105396 1
@@ -108,7 +108,7 @@
 73C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\chokidar133396176332554185 1
 110C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\caniuse-lite\data\features\css-text-indent.js133396175325520195 0
 86C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\msgpackr\dist\test.js133396175320541207 0
-78C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\src\styles\_cabecalho.scss133396920805710174 0
+78C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\src\styles\_cabecalho.scss133396954177537587 0
 74C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\src\styles\_event.scss133396907435479530 0
 102C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\utility-types\dist\utility-types.d.ts133396175320145852 0
 133C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-engine.h133117882010000000 0
@@ -119,9 +119,9 @@
 88C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\utility-types\README.md133396175319475712 0
 78C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\color-convert133396175318385468 1
 86C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\posthtml\node_modules133396175307738034 1
-86C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\src\styles\components\_button.scss133396907474436969 0
+86C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\src\styles\components\_button.scss133396952533891124 0
 122C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-gnu.node133396175322859592 0
-91C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\src\styles\components\_informacoes.scss133396925496813434 0
+91C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\src\styles\components\_informacoes.scss133396953073096944 0
 81C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\minimist\LICENSE133396307386428895 0
 83C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\tar-stream\LICENSE133396307386278861 0
 75C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\color-name133396175317495262 1
@@ -911,7 +911,7 @@
 87C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\csso\cjs\clean\Raw.cjs133396175321073446 0
 78C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@lezer\common133396175318405468 1
 84C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\weak-lru-cache\dist133396175316525038 1
-67C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\index.html133396921368238985 0
+67C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\index.html133396949758231492 0
 105C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\type-fest\source\conditional-except.d.ts133396175318915587 0
 91C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@swc\helpers\_\_instanceof133396175325590214 1
 100C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\simple-get\.github\workflows\ci.yml133396307386588931 0
@@ -1988,7 +1988,7 @@
 129C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc-test\orctest.h133117882010000000 0
 135C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-outfile-stdio.h133117882010000000 0
 128C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\encoding.h133117882010000000 0
-64C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\scripts133396921367358785 1
+64C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\scripts133396929616422916 1
 123C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orcarm.h133117882010000000 0
 95C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\utils\lib\index.js.map133396175323599757 0
 129C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orcbytecodes.h133117882010000000 0
@@ -2542,7 +2542,7 @@
 126C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gioerror.h133117882010000000 0
 101C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\htmlparser2\lib\FeedHandler.d.ts.map133396175318755544 0
 150C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\sharp\vendor\8.13.3\win32-x64\include\gdk-pixbuf-2.0\gdk-pixbuf\gdk-pixbuf-features.h133117882010000000 0
-74C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\index.f75de5e1.js133396921366898679 0
+74C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\index.f75de5e1.js133396929615922799 0
 130C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gioscheduler.h133117882010000000 0
 104C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@swc\helpers\_\_iterable_to_array_limit133396175325700241 1
 127C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\giostream.h133117882010000000 0
@@ -3210,7 +3210,7 @@
 88C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\posthtml-render\license133396175316535043 0
 93C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\posthtml-render\package.json133396175317325223 0
 103C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\htmlnano\docs\docs\010-introduction.md133396175322069412 0
-78C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\index.f75de5e1.js.map133396921366928686 0
+78C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\index.f75de5e1.js.map133396929615942802 0
 90C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\posthtml-render\readme.md133396175318105396 0
 115C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@babel\code-frame\node_modules\chalk\index.js.flow133396175317285210 0
 99C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133396175323879827 0
@@ -3391,7 +3391,7 @@
 81C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\node-abi\LICENSE133396307386288865 0
 90C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\napi-build-utils\index.js133396307386368881 0
 122C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\supports.cjs133396175323639770 0
-91C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\modulo22_exercicio.59712999.js.map133396921366928686 0
+91C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\modulo22_exercicio.59712999.js.map133396929615942802 0
 90C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\htmlnano\docs\sidebars.js133396175320903402 0
 127C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts133396175319815779 0
 90C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\napi-build-utils\index.md133396307386508914 0
@@ -3619,7 +3619,7 @@
 103C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\dom-serializer\lib\esm\foreignNames.js133396175317055159 0
 118C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@babel\highlight\node_modules\color-convert\README.md133396175318235430 0
 103C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in133396175323909835 0
-76C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\scripts\main.js.map133396921367348781 0
+76C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\scripts\main.js.map133396929616412916 0
 98C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\lmdb\dependencies\lz4\lib\LICENSE133396175319345673 0
 87C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\end-of-stream\index.js133396307386358879 0
 108C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@swc\helpers\_\_possible_constructor_return133396175325870266 1
@@ -3946,7 +3946,7 @@
 125C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\csso\node_modules\css-tree\cjs\syntax\node\ClassSelector.cjs133396175319675753 0
 132C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors133396175321319243 1
 85C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\glob-parent\index.js133396176332404146 0
-76C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\after.241ac52c.jfif133396921366738644 0
+76C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\after.241ac52c.jfif133396929615652749 0
 84C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\glob-parent\LICENSE133396176332374140 0
 139C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node133396175321113447 0
 118C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\abortcontroller-polyfill\dist\polyfill-patch-fetch.js133396175318845561 0
@@ -4676,7 +4676,7 @@
 91C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\css-tree\lib\syntax\pseudo133396175325070094 1
 101C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\css-tree\lib\syntax\scope\default.js133396175324760029 0
 100C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\css-tree\lib\syntax\pseudo\index.js133396175325080094 0
-87C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\modulo22_exercicio.59712999.js133396921366908684 0
+87C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\modulo22_exercicio.59712999.js133396929615922799 0
 111C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\caniuse-lite\data\features\intl-pluralrules.js133396175327250584 0
 100C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\css-tree\lib\syntax\node\AnPlusB.js133396175324259904 0
 96C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\caniuse-lite\data\regions\MO.js133396175327900730 0
@@ -5927,7 +5927,7 @@
 95C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\config-default\LICENSE133396175317055159 0
 112C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@swc\helpers\src\_class_private_method_init.mjs133396175326460402 0
 125C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs133396175326480413 0
-63C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\styles133396925496953466 1
+63C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\styles133396954101880907 1
 127C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\generator133396175323859822 1
 90C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\watcher\README.md133396175318205422 0
 96C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@swc\helpers\src\_construct.mjs133396175326520420 0
@@ -6618,7 +6618,7 @@
 148C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133396175319655744 0
 132C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\index.js133396175322879603 0
 132C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\utils.js133396175324109870 0
-76C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\clube.579e5a52.jfif133396921366788655 0
+76C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\clube.579e5a52.jfif133396929615562723 0
 147C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\index.d.ts133396175321139297 0
 127C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule133396175323919843 1
 119C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two133396175325240137 1
@@ -7159,14 +7159,14 @@
 111C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133396175355776827 0
 76C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\.bin\rc.cmd133396307387099052 0
 96C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\node_modules\.bin\update-browserslist-db.ps1133396175355786833 0
-81C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\aniversario.c03e3f0c.jpg133396921366778657 0
+81C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\aniversario.c03e3f0c.jpg133396929615722762 0
 78C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\birthday.b8c4c9cc.jpg133396910623370500 0
 73C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\céu.5c25ad53.jpg133396906975762966 0
 75C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\fundo.a62a0635.png133396908770995102 0
 113C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\mensagens-para-aniversario-de-funcionario-3.2567fb6a.jpg133396882245097566 0
-84C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\praia-tropical.88900909.jpg133396921368906960 0
+84C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\praia-tropical.88900909.jpg133396929617862260 0
 76C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\praia.19146a96.jfif133396854965783974 0
 83C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\quadrasbeach.2d69a35c.jfif133396880598495906 0
-72C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\styles\main.css133396925496933455 0
-76C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\styles\main.css.map133396925496953466 0
-72C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\scripts\main.js133396921367328776 0
+72C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\styles\main.css133396954101860906 0
+76C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\styles\main.css.map133396954101880907 0
+72C:\Users\vinic\Desktop\vini\EBAC\modulo22_exercicio\dist\scripts\main.js133396929616392916 0
